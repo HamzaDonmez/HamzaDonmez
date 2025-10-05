@@ -5,7 +5,7 @@
 ### Aşağıdaki bağlantıdan her şeye ulaşabilirsiniz. ###
 
 
-[SSS](https://github.com/HamzaDonmez/SSS)
+ [# SSS #](https://github.com/HamzaDonmez/SSS) 
 
 ![Top Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzadonmez&layout=compact&theme=radical)
 
